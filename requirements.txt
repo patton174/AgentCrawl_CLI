@@ -1,0 +1,11 @@
+click>=8.1.7
+rich>=13.7.0
+prompt_toolkit>=3.0.43
+pydantic>=2.5.3
+requests>=2.31.0
+httpx>=0.26.0
+beautifulsoup4>=4.12.3
+lxml>=5.1.0
+loguru>=0.7.2
+openai>=1.12.0
+python-dotenv>=1.0.1
